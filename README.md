@@ -10,6 +10,6 @@ New HTML/CSS application template
 
 ### installation
 
-* `npm install`
+* `npm install` 
 * `bower install`
 * `gulp`
